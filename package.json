@@ -1,0 +1,16 @@
+{
+  "name": "amaris",
+  "version": "1.0.0",
+  "description": "projecto node para prueba de amaris que consilte en crear un algoritmo que imprima o devuelva los númers primos de n hacia 1 de manera descendente",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jasmine"
+  },
+  "keywords": ["Prime number","node","jasmine","test"],
+  "author": "Jhoan Olivo Barrios",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine": "^3.6.4"
+  }
+}
